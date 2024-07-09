@@ -7,6 +7,7 @@ def home(request):
     template = loader.get_template('home.html')
     return HttpResponse(template.render())
 
+
 def details_book(request, id):
   mybook = Book.objects.get(id=id)
   template = loader.get_template('details_book.html')
@@ -15,7 +16,7 @@ def details_book(request, id):
   }
   return HttpResponse(template.render(context, request))
 
-def details_autor(request, id):
+def details_author(request, id):
   myauthor = Book.objects.get(id=id)
   template = loader.get_template('details_author.html')
   context = {

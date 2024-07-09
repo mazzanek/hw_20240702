@@ -4,12 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="26e74ae3-7b18-434d-b752-72edffc3f3e8" name="Changes" comment="step2">
-      <change afterPath="$PROJECT_DIR$/public_library/shelf/templates/books.html" afterDir="false" />
+    <list default="true" id="26e74ae3-7b18-434d-b752-72edffc3f3e8" name="Changes" comment="step3">
+      <change afterPath="$PROJECT_DIR$/public_library/shelf/templates/authors.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public_library/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/public_library/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public_library/shelf/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/public_library/shelf/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public_library/shelf/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/public_library/shelf/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public_library/shelf/templates/details_autor.html" beforeDir="false" afterPath="$PROJECT_DIR$/public_library/shelf/templates/details_autor.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public_library/shelf/templates/details_book.html" beforeDir="false" afterPath="$PROJECT_DIR$/public_library/shelf/templates/details_book.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public_library/shelf/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/public_library/shelf/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public_library/shelf/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/public_library/shelf/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -32,7 +32,9 @@
   "associatedIndex": 6
 }]]></component>
   <component name="ProjectId" id="2j09Iuu8UifCprObJEo0A06HTaJ" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -84,13 +86,22 @@
       <option name="project" value="LOCAL" />
       <updated>1720515252472</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="step3">
+      <option name="closed" value="true" />
+      <created>1720518527948</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1720518527948</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="start" />
     <MESSAGE value="step1" />
     <MESSAGE value="step2" />
-    <option name="LAST_COMMIT_MESSAGE" value="step2" />
+    <MESSAGE value="step3" />
+    <option name="LAST_COMMIT_MESSAGE" value="step3" />
   </component>
 </project>
